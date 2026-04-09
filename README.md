@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Risheek 
+
+ B.Tech Student  
+ Learning DSA in C++  
+ Practicing on Codeforces & LeetCode  
+ Interested in Cybersecurity  
+
+##  Goals
+- Become strong in DSA
+- Build real-world projects
+- Crack internships
+
 
 <!--
 **risheekmahesh/risheekmahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
