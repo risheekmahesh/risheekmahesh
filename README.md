@@ -1,4 +1,4 @@
-# Hi, I'm Risheek 
+# Hi, I'm Risheek Mahesh
 
  B.Tech Student  
  Learning DSA in C++  
