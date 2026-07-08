@@ -1,27 +1,25 @@
-# Hi, I'm Risheek Mahesh
+# Hi 👋 I'm Risheek Mahesh
 
- B.Tech Student  
- Learning DSA in C++  
- Practicing on Codeforces & LeetCode  
- Interested in Cybersecurity  
+🎓 B.Tech Engineering Physics @ IIT Hyderabad
 
-##  Goals
-- Become strong in DSA
-- Build real-world projects
-- Crack internships
+## About Me
 
+- Interested in Machine Learning and Backend Development
+- Learning Data Structures & Algorithms
+- Building real-world AI projects using Python and PyTorch
+- Solving problems on LeetCode and Codeforces
 
-<!--
-**risheekmahesh/risheekmahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects
 
-Here are some ideas to get you started:
+- 🎯 Multimodal Emotion Recognition
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- C++
+- C 
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/risheek-mahesh-34261a363/
+LeetCode: https://leetcode.com/u/risheekmahesh/
