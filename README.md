@@ -9,7 +9,6 @@ I'm interested in software development, machine learning, and cybersecurity.
 * Data Structures & Algorithms
 * Machine Learning and Deep Learning
 * Backend Development
-* Cybersecurity
 
 ## Languages & Tools
 
