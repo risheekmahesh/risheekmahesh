@@ -1,26 +1,42 @@
-# Hi 👋 I'm Risheek Mahesh
+# Hi, I'm Risheek Mahesh 
 
-🎓 B.Tech Engineering Physics @ IIT Hyderabad
+B.Tech Engineering Physics student at IIT Hyderabad.
 
-## About Me
+I'm interested in software development, machine learning, and cybersecurity.
 
-- Interested in Machine Learning and Backend Development
-- Learning Data Structures & Algorithms
-- Building real-world AI projects using Python and PyTorch
-- Solving problems on LeetCode and Codeforces
+## Currently learning
 
-## Current Projects
+* Data Structures & Algorithms
+* Machine Learning and Deep Learning
+* Backend Development
+* Cybersecurity
 
-- 🎯 Multimodal Emotion Recognition
+## Languages & Tools
 
-## Skills
+* C++
+* Python
+* C
+* PyTorch
+* NumPy
+* Pandas
+* Git
+* Linux
 
-- Python
-- C++
-- C 
+## Projects
 
-## Connect
+### Multimodal Emotion Recognition
 
-LinkedIn: https://www.linkedin.com/in/risheek-mahesh-34261a363/
+Working on an emotion recognition project using audio and text data.
 
-LeetCode: https://leetcode.com/u/risheekmahesh/
+### DSA Practice
+
+A collection of my solutions to problems from LeetCode, Codeforces, and other platforms.
+
+## Links
+
+* [LeetCode](https://leetcode.com/u/risheekmahesh/)
+* [LinkedIn](https://www.linkedin.com/in/risheek-mahesh-34261a363/)
+
+> Learning by building and solving problems.
+
+
