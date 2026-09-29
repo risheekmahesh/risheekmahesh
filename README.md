@@ -15,11 +15,7 @@ I'm interested in software development, machine learning, and cybersecurity.
 * C++
 * Python
 * C
-* PyTorch
 * NumPy
-* Pandas
-* Git
-* Linux
 
 ## Projects
 
